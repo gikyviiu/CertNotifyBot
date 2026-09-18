@@ -38,10 +38,10 @@
 ## База данных
 В данном проекте код написан под локальную БД (использовалась среда MySQL Workbench). Добавлены файлы с моей созданной БД для тестов:
 1. Файлы скрипта и модели/EER Dia для создания пустой БД
-- `testbdscript.sql`
-- `testbdmodel.mwb`
+- `testdbscript.sql`
+- `testdbmodel.mwb`
 2. Файл для экспорта полной БД с тестовыми данными в ней
-- `testbdfulldata.sql`
+- `testdbfulldata.sql`
 
 ---
 
